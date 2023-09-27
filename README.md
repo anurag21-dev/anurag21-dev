@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, Anurag here 👋
+👨🏻‍🎓 Currently persuing my B.Tech in CSE
+🔭 I’m currently working on Backend Development
+🌱 I’m currently learning MERN Stack + Machine Learning
+👯 I’m looking to collaborate on Creative Projects
+🥅 2023 Goals: Contribute more to Open Source projects
 
 <!--
 **anurag21-dev/anurag21-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
