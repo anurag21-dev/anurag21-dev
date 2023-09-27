@@ -8,7 +8,7 @@
 - 🥅 2024 Goals: Contribute more to Open Source projects
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...-->
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/niloysikdar/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anurag-mukherjee-7180001bb/)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
@@ -39,7 +39,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag21-dev&count_private=true&show_icons=true&theme=tokyonight" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anurag21-dev&layout=compact&theme=dracula" />
+<figure><embed src="https://wakatime.com/share/@fa32d3c2-815a-4929-a9ab-ef825ee879e0/befe0b8c-0c21-492c-8fbc-9f3b8659d9a0.svg"></embed></figure>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag21-dev&layout=compact&theme=react&count_private=false" />
 
